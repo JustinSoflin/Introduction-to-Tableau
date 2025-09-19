@@ -52,7 +52,7 @@ Some example insights highlighted in the analysis:
 ## How to Explore
 1. Open the Tableau workbook (`.twbx`) in Tableau Desktop or Tableau Public.  
 2. Interact with dashboards, filters, and charts to explore the data.  
-3. View screenshots in the `screenshots/` folder for a quick overview.  
+3. View screenshots in the `screenshots/` folder for a quick overview.
 
 ---
 
@@ -60,3 +60,32 @@ Some example insights highlighted in the analysis:
 - Expand the analysis with additional datasets, such as user reviews or ratings.  
 - Add calculated fields and more advanced visualizations.  
 - Incorporate further interactivity into dashboards for enhanced insights.  
+
+
+
+
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/0ddfc35b-abef-4cc6-b9ef-cc1c5a67341d" />
+
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/abe7fda5-e643-4ed2-8a0a-c40887e076df" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/35f6399c-8eee-4edc-9a81-34de70e5f2df" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/8c4a8e86-d87d-4182-910c-7ba289ddce17" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/391a1d7a-87d4-4b07-a828-dc8d407efba1" />
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/4c24c3b7-296b-4850-bdca-c2522f6db5d7" />
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/1ce8ebbb-b5bc-4080-94ee-0187d5d98bb0" />
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/e05dacb1-4f87-4743-9326-094071a98999" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/7f3d15d9-7815-484c-b2b3-7fa8b0ead0cf" />
+
