@@ -89,3 +89,20 @@ Some example insights highlighted in the analysis:
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/7f3d15d9-7815-484c-b2b3-7fa8b0ead0cf" />
 
+
+
+
+
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/c0a723d7-7633-4a27-8f62-f2828aa64972" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/ab6c8ac4-eda3-4ea7-ae75-ecbfb39886a8" />
+
+
+
+
+
+
+
+
