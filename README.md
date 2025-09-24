@@ -107,14 +107,35 @@ In this project, I explore how to identify the best times and locations for maxi
 
 `Public Airbnb Dataset:` _sample dataset available_ HERE
 
+<Br>
+<br>
 
-
+## Step 1) Preparing the Data
+The analysis starts with an inner join of the Listings dataset and the Calendar dataset to combine property details with availability and pricing information.
+<Br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/ab6c8ac4-eda3-4ea7-ae75-ecbfb39886a8" />
 
+<br>
 
+## Step 2: Neighborhood Pricing Trends
+Starting with the first worksheet, I pair Zip Code (columns) with Price (rows), adjusting the aggregation to average price instead of total sum. After changing the bar chart to be color coded, this highlights the neighborhoods where potential hosts can expect the highest returns.
+<br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/62740ea8-3b2b-4422-8dd7-855b0be737e9" />
 
+<br>
+
+## Step 3: Geographic Revenue Visualization
+Using the generated latitude and longitude data, I build a filled map to provide a geographic view of average earnings. This visualization allows potential hosts to quickly identify which areas are most profitable at a glance.
+<br>
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/15b847ba-455d-4db2-a3bd-11742215cba5" />
+
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/d7f2d234-53e6-417d-bb1c-c24bdaff9902" />
+
+<br>
+
+## Step 4: Seasonal Pricing Trends
+On the next worksheet, I graph average price by week to uncover seasonal patterns in rental demand. This view highlights the best times of year for hosts to list their properties at higher rates. As expected, profitability peaks during popular travel periods such as summer and the holidays—this visualization provides clear evidence of those trends.
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/3eaf9e72-9a42-4d2c-a823-0e9dccaf87d7" />
 
