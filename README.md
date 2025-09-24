@@ -99,10 +99,19 @@ Some example insights highlighted in the analysis:
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/ab6c8ac4-eda3-4ea7-ae75-ecbfb39886a8" />
 
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/fa10892b-8cd7-40f7-8e54-b39e6e905ce2" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/62740ea8-3b2b-4422-8dd7-855b0be737e9" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/d7f2d234-53e6-417d-bb1c-c24bdaff9902" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/3eaf9e72-9a42-4d2c-a823-0e9dccaf87d7" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/6dc539ca-cceb-44a7-bdd8-dba72e1862e9" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/029f81a7-8001-41eb-b299-fe326dabef0a" />
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/56ca0372-3098-494e-aaec-c105a8682ea5" />
 
 
-
-
-
-
-
+https://public.tableau.com/app/profile/justin.soflin/viz/AirbnbFinalProject_17587402051360/Dashboard1?publish=yes
