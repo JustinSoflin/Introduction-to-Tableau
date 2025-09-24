@@ -1,4 +1,5 @@
-# Introduction to Tableau: Video Game Sales Analysis
+# Introduction to Tableau: 
+## Video Game Sales Analysis & [Airbnb Revenue Optimization](#airbnb-revenue-optimization-with-tableau) Projects
 
 In this project, I explore video game sales data to uncover trends in revenue by genre, platform, and over time. The objective is to provide actionable insights into the performance of different types of games across markets and platforms.
 
