@@ -101,6 +101,13 @@ In this project, I explore how to identify the best times and locations for maxi
 
 **Completion:** an interactive Tableau dashboard highlights key metrics such as revenue by neighborhood, seasonal demand fluctuations, and average nightly rates, giving the client a data-driven view of when and where to maximize earnings.
 
+## 📑 Table of Contents
+[Preparing the Data](#step-1-preparing-the-data) | [Pricing Trends](#step-2-neighborhood-pricing-trends) | [Geographic Visualization](#step-3-geographic-revenue-visualization) | [Seasonal Trends](#step-4-seasonal-pricing-trends) | [Price per Bedroom](#step-5-average-price-per-bedroom) | [Dashboard Assembly](#step-6-dashboard-assembly) | [Final Project](#final-project)
+
+
+---
+
+
 ## 📊 Tools Utilized
 
 `Tableau Public:` _data visualization and interactive dashboarding_
@@ -110,7 +117,7 @@ In this project, I explore how to identify the best times and locations for maxi
 <Br>
 <br>
 
-## Step 1) Preparing the Data
+## Step 1: Preparing the Data
 The analysis starts with an inner join of the Listings dataset and the Calendar dataset to combine property details with availability and pricing information.
 <Br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/ab6c8ac4-eda3-4ea7-ae75-ecbfb39886a8" />
@@ -134,6 +141,7 @@ Using the generated latitude and longitude data, I build a filled map to provide
 
 ## Step 4: Seasonal Pricing Trends
 On the next worksheet, I graph average price by week to uncover seasonal patterns in rental demand. This view highlights the best times of year for hosts to list their properties at higher rates. As expected, profitability peaks during popular travel periods such as summer and the holidays—this visualization provides clear evidence of those trends.
+<Br>
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/3eaf9e72-9a42-4d2c-a823-0e9dccaf87d7" />
 
@@ -153,5 +161,6 @@ All five worksheets are combined into a single interactive dashboard for streaml
 
 <br> 
 
-## Final Project:
-https://public.tableau.com/app/profile/justin.soflin/viz/AirbnbFinalProject_17587402051360/Dashboard1?publish=yes
+## Final Project
+Access the full interactive dashboard here:  
+[Airbnb Revenue Optimization Dashboard](https://public.tableau.com/app/profile/justin.soflin/viz/AirbnbFinalProject_17587402051360/Dashboard1?publish=yes)
