@@ -84,7 +84,7 @@ Sheets 1 and 2 are combined into a single interactive dashboard, providing quick
 <br>
 
 
-# Airbnb Revenue Optimization with Tableau
+# Project 2: Airbnb Revenue Optimization with Tableau
 In this project, I explore how to identify the best times and locations for maximizing Airbnb rental income. The objective is to provide actionable insights for hosts seeking to increase profitability.
 
 **Beginning:** the client has raw Airbnb listing and booking data but no clear understanding of seasonal patterns, geographic trends, or pricing opportunities.
@@ -104,7 +104,6 @@ In this project, I explore how to identify the best times and locations for maxi
 
 `Public Airbnb Dataset:` _sample dataset available_ HERE
 
-<Br>
 <br>
 
 ## Step 1: Preparing the Data
