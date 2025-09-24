@@ -1,9 +1,20 @@
 # Introduction to Tableau: Video Game Sales Analysis
 
+In this project, I explore video game sales data to uncover trends in revenue by genre, platform, and over time. The objective is to provide actionable insights into the performance of different types of games across markets and platforms.
 
+---
 
+## 📑 Table of Contents
+[Preparing the Data](#step-1-preparing-the-data) | [Global Sales by Genre](#step-2-global-sales-by-genre) | [Revenue Trends Over Time](#step-3-revenue-trends-over-time) | [Dashboard Assembly](#step-4-dashboard-assembly) | [Final Project](#final-project)
 
+---
 
+## 📊 Tools Utilized
+
+- `Tableau Public`: _data visualization and interactive dashboarding_  
+- `Video Game Sales Dataset`: _sample dataset available [HERE](link)_  
+
+---
 
 ## Step 1: Preparing the Data
 
