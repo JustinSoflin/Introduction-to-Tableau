@@ -5,30 +5,68 @@
 
 
 
+## Step 1: Preparing the Data
 
+The project starts off with loading the sample videogame sales dataset into Tableau. This provides a spreadsheet of the raw data, totaling 16,598 rows, which will serve as the foundation for aggregation and subsequent visualizations. <br>
+<Br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/0ddfc35b-abef-4cc6-b9ef-cc1c5a67341d" />
 
+## Step 2: Global Sales by Genre
 
+The analysis begins with a basic bar graph showing Global Sales across different Genres. This provides a simple yet clear overview of which types of games generate the most revenue, providing the starting point for deeper insights.
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/e05dacb1-4f87-4743-9326-094071a98999" />
+
+
+## Step 3: Revenue Trends Over Time
+
+To start, Year and Global Sales are added to a basic visualization to map revenue trends over time. The initial chart is then enriched with additional features such as Genre, color coding, and labels, providing deeper insight into how different types of games contribute to overall sales.
+
+The data can also be filtered and grouped by Platform, allowing for more targeted analysis of revenue trends across specific gaming systems.
+
+<Br>
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/abe7fda5-e643-4ed2-8a0a-c40887e076df" />
 
+<Br>
+
+
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/35f6399c-8eee-4edc-9a81-34de70e5f2df" />
+
+<Br>
+
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/8c4a8e86-d87d-4182-910c-7ba289ddce17" />
 
+<Br>
+
+
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/391a1d7a-87d4-4b07-a828-dc8d407efba1" />
+
+<Br>
+
 
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/4c24c3b7-296b-4850-bdca-c2522f6db5d7" />
 
+<Br>
+
+
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/1ce8ebbb-b5bc-4080-94ee-0187d5d98bb0" />
 
+<Br>
+<Br>
 
-<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/e05dacb1-4f87-4743-9326-094071a98999" />
+## Step 4: Dashboard Assembly
+
+Sheets 1 and 2 are combined into a single interactive dashboard, providing quick access to both the global sales by genre and revenue trends over time. This consolidated view allows users to explore insights efficiently and make data-driven decisions at a glance.
+<br>
+
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/7f3d15d9-7815-484c-b2b3-7fa8b0ead0cf" />
 
+---
 <br>
 <br>
 <br>
