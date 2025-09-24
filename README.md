@@ -89,10 +89,23 @@ Some example insights highlighted in the analysis:
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/7f3d15d9-7815-484c-b2b3-7fa8b0ead0cf" />
 
+<br>
+<br>
+<br>
 
 
+# Airbnb Revenue Optimization with Tableau
+In this project, I explore how to identify the best times and locations for maximizing Airbnb rental income. The objective is to provide actionable insights for hosts seeking to increase profitability.
 
+*Beginning:* the client has raw Airbnb listing and booking data but no clear understanding of seasonal patterns, geographic trends, or pricing opportunities.
 
+*Completion:* an interactive Tableau dashboard highlights key metrics such as revenue by neighborhood, seasonal demand fluctuations, and average nightly rates, giving the client a data-driven view of when and where to maximize earnings.
+
+## 📊 Tools Utilized
+
+`Tableau Public:` _data visualization and interactive dashboarding_
+
+`Public Airbnb Dataset:` _sample dataset available_ HERE
 
 
 
