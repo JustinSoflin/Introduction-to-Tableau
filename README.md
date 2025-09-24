@@ -13,7 +13,7 @@ In this project, I explore video game sales data to uncover trends in revenue by
 ## 📊 Tools Utilized
 
 - `Tableau Public`: _data visualization and interactive dashboarding_  
-- `Video Game Sales Dataset`: _sample dataset available [HERE](link)_  
+- `Video Game Sales Dataset`: _sample dataset available [HERE via kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)_  
 
 ---
 
@@ -102,7 +102,7 @@ In this project, I explore how to identify the best times and locations for maxi
 
 `Tableau Public:` _data visualization and interactive dashboarding_
 
-`Public Airbnb Dataset:` _sample dataset available_ HERE
+`Public Airbnb Dataset:` _sample dataset available_ [HERE via kaggle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 <br>
 
