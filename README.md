@@ -130,8 +130,6 @@ Using the generated latitude and longitude data, I build a filled map to provide
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/15b847ba-455d-4db2-a3bd-11742215cba5" />
 
-<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/d7f2d234-53e6-417d-bb1c-c24bdaff9902" />
-
 <br>
 
 ## Step 4: Seasonal Pricing Trends
@@ -139,10 +137,21 @@ On the next worksheet, I graph average price by week to uncover seasonal pattern
 
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/3eaf9e72-9a42-4d2c-a823-0e9dccaf87d7" />
 
+## Step 5: Average Price per Bedroom
+The final worksheet presents a bar chart of average price segmented by number of bedrooms. As expected, listings with more bedrooms command higher prices. To ensure accuracy, entries with null or zero bedrooms are excluded from the analysis.<Br>
+<br>
+
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/6dc539ca-cceb-44a7-bdd8-dba72e1862e9" />
 
+<br>
 
+## Step 6: Dashboard Assembly
+All five worksheets are combined into a single interactive dashboard for streamlined analysis and quick insights. This consolidated view equips hosts with actionable data to make informed decisions. It is expected that clients may have follow-up questions or requests for additional information, which can be addressed as part of ongoing support.
+<Br>
+<br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/56ca0372-3098-494e-aaec-c105a8682ea5" />
 
+<br> 
 
+## Final Project:
 https://public.tableau.com/app/profile/justin.soflin/viz/AirbnbFinalProject_17587402051360/Dashboard1?publish=yes
