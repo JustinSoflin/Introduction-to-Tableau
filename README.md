@@ -1,5 +1,5 @@
 # Introduction to Tableau: 
-## Video Game Sales Analysis & [Airbnb Revenue Optimization](#airbnb-revenue-optimization-with-tableau) Projects
+## Video Game Sales Analysis & [Airbnb Revenue Optimization](#project-2-airbnb-revenue-optimization) Projects
 
 In this project, I explore video game sales data to uncover trends in revenue by genre, platform, and over time. The objective is to provide actionable insights into the performance of different types of games across markets and platforms.
 
@@ -84,7 +84,7 @@ Sheets 1 and 2 are combined into a single interactive dashboard, providing quick
 <br>
 
 
-# Project 2: Airbnb Revenue Optimization with Tableau
+# Project 2: Airbnb Revenue Optimization
 In this project, I explore how to identify the best times and locations for maximizing Airbnb rental income. The objective is to provide actionable insights for hosts seeking to increase profitability.
 
 **Beginning:** the client has raw Airbnb listing and booking data but no clear understanding of seasonal patterns, geographic trends, or pricing opportunities.
