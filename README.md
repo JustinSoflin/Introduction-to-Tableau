@@ -92,7 +92,7 @@ In this project, I explore how to identify the best times and locations for maxi
 **Completion:** an interactive Tableau dashboard highlights key metrics such as revenue by neighborhood, seasonal demand fluctuations, and average nightly rates, giving the client a data-driven view of when and where to maximize earnings.
 
 ## 📑 Table of Contents
-[Preparing the Data](#step-1-preparing-the-data) | [Pricing Trends](#step-2-neighborhood-pricing-trends) | [Geographic Visualization](#step-3-geographic-revenue-visualization) | [Seasonal Trends](#step-4-seasonal-pricing-trends) | [Price per Bedroom](#step-5-average-price-per-bedroom) | [Dashboard Assembly](#step-6-dashboard-assembly) | [Interactive Dashboard](#final-project)
+[Data Preparation](#step-1-data-preparation) | [Pricing Trends](#step-2-neighborhood-pricing-trends) | [Geographic Visualization](#step-3-geographic-revenue-visualization) | [Seasonal Trends](#step-4-seasonal-pricing-trends) | [Price per Bedroom](#step-5-average-price-per-bedroom) | [Dashboard Assembly](#step-6-dashboard-assembly) | [Interactive Dashboard](#final-project)
 
 
 ---
@@ -106,7 +106,7 @@ In this project, I explore how to identify the best times and locations for maxi
 
 <br>
 
-## Step 1: Preparing the Data
+## Step 1: Data Preparation
 The analysis starts with an inner join of the Listings dataset and the Calendar dataset to combine property details with availability and pricing information.
 <Br>
 <img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/ab6c8ac4-eda3-4ea7-ae75-ecbfb39886a8" />
