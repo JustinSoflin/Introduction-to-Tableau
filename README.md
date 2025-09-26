@@ -6,7 +6,7 @@ In this project, I explore video game sales data to uncover trends in revenue by
 ---
 
 ## 📑 Table of Contents
-[Preparing the Data](#step-1-preparing-the-data) | [Global Sales by Genre](#step-2-global-sales-by-genre) | [Revenue Trends Over Time](#step-3-revenue-trends-over-time) | [Dashboard Assembly](#step-4-dashboard-assembly) | [Final Project](#final-project)
+[Preparing the Data](#step-1-preparing-the-data) | [Global Sales by Genre](#step-2-global-sales-by-genre) | [Revenue Trends Over Time](#step-3-revenue-trends-over-time) | [Dashboard Assembly](#step-4-dashboard-assembly) | [Interactive Dashboard](#final-project)
 
 ---
 
